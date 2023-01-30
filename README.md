@@ -50,7 +50,7 @@ Seguir esse padrão de body
 
 }
 
-##DELETE - Remover uma pessoa
+## DELETE - Remover uma pessoa
 
 - localhost:8080/pessoas/delete/{id}
 
